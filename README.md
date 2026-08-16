@@ -1,5 +1,7 @@
 # FlowTask
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/ghavutKDGZ)
+
 A tiny macro recorder for Windows. It records your mouse movement, clicks, scrolling and
 keystrokes, then replays them exactly — with smooth, interpolated cursor motion instead of
 the usual teleporting jumps.
